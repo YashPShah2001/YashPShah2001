@@ -1,8 +1,8 @@
 - YASH P SHAH
-- 22 Male
+- 23 Male
 - Software AG
--   Intern
-- SRMIST CHENNAI
+-   Assistant Consusltant
+- SRMIST - CHENNAI
 -   Computer Science & Engineering(CSE)
 -   B.tech 
 
