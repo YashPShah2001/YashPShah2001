@@ -1,10 +1,11 @@
 - YASH P SHAH
 - 23 Male
-- Software AG
--   Assistant Consusltant
-- SRMIST - CHENNAI
--   Computer Science & Engineering(CSE)
--   B.tech 
+- UCD (2024-2025)
+-   - Msc Information Systems
+- Software AG (2023-2024)
+-  -   Assistant Consusltant
+- SRMIST - CHENNAI (2019-2023)
+-   B.tech Computer Science & Engineering(CSE)
 
 <!---
 YashPShah2001/YashPShah2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
