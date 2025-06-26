@@ -1,5 +1,5 @@
 - YASH P SHAH
-- 23 Male
+- 24 Male
 - University College Dublin (2024-2025)
      - Msc Information Systems
 - Software AG (2023-2024)
